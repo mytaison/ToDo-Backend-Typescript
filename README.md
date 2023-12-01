@@ -4,8 +4,9 @@ This is backend part of [ToDo TypeScript Project - Frontend](https://github.com/
 
 ## Setup
 
-1. Install NodeJS v16.x, MariaDB in your system.
+1. Install NodeJS v16.x, NPM, MariaDB in your system.
 2. In the project directory, to start development first edit the values in .env.example and rename the file to .env
+3. Then run 'npm install
 
 ## Available Scripts
 
